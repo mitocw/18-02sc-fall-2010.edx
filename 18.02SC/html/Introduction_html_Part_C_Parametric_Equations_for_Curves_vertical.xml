@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <p>Parametric equations define trajectories in space or in the plane. Very often we can think of the trajectory as that of a particle moving through space and the parameter as time. In this case, the parametric curve is written (<em>x</em>(<em>t</em>); <em>y</em>(<em>t</em>); <em>z</em>(<em>t</em>)), which gives the position of the particle at time <em>t</em>.</p>
+  <p>A moving particle also has a velocity and acceleration. These are vectors which vary in time. We will learn to compute them as derivatives of the position vector.</p>
+  <div class="clear">&#xA0;</div>
+</html>

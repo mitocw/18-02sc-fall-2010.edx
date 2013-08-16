@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<course dirname="18-02sc-fall-2010" semester="2013_Spring" course="18.02SC" name="Multivariable Calculus" org="MITx">
+  <chapter url_name="Syllabus_chapter"/>
+  <chapter url_name="1__Vectors_and_Matrices_chapter"/>
+  <chapter url_name="2__Partial_Derivatives_chapter"/>
+  <chapter url_name="3__Double_Integrals_and_Line_Integrals_in_the_Plane_chapter"/>
+  <chapter url_name="4__Triple_Integrals_and_Surface_Integrals_in_3-Space_chapter"/>
+  <chapter url_name="Final_Exam_chapter"/>
+</course>

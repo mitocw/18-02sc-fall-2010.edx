@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <h2 class="subhead">Unit 4 Introduction</h2>
+  <p>In our last unit we move up from two to three dimensions. Now we will have three main objects of study:</p>
+  <ol>
+    <li>Triple integrals over solid regions of space.</li>
+    <li>Surface integrals over a 2D surface in space.</li>
+    <li>Line integrals over a curve in space.</li>
+  </ol>
+  <p>As before, the integrals can be thought of as sums and we will use this idea in applications and proofs.</p>
+  <p>We'll see that there are analogs for both forms of Green's theorem. The work form will become Stokes' theorem and the  flux form will become the divergence theorem (also known as Gauss' theorem). To state these theorems we will need to learn the 3D versions of div and curl.</p>
+  <p>
+    <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/index.htm">
+      <strong>Part A: Triple Integrals</strong>
+    </a>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/index.htm">Part B: Flux and the Divergence Theorem</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/index.htm">Part C: Line Integrals and Stokes' Theorem</a>
+    </strong>
+  </p>
+  <p>
+    <strong>&#xA0;<a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/index.htm">Exam 4</a></strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/index.htm">Physics Applications</a>
+    </strong>
+  </p>
+</html>

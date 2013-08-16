@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<html display_name="Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Watch a lecture video clip and read board notes</li>
+    <li>Read course notes and examples</li>
+    <li>Watch a lecture video clip and read board notes</li>
+    <li>Watch a recitation video</li>
+  </ul>
+  <h2 class="subhead">Lecture Video</h2>
+  <h3 class="subhead">Video Excerpts</h3>
+  <h2 class="subhead">Reading and Examples</h2>
+  <p>
+    <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SC_MNotes_i3.pdf" target="_blank" title="Open in a new window.">Limits in Triple Integrals (PDF)</a>
+  </p>
+  <h2 class="subhead">Lecture Video</h2>
+  <h3 class="subsubhead">Video Excerpts</h3>
+  <h2 class="subhead">Recitation Video</h2>
+  <h3 class="subsubhead">Volume in Cylindrical Coordinates</h3>
+  <div class="inline-video" id="video3">
+    <div id="embed3">
+      <a href="javascript:void()">
+        <img alt="Click to play video." border="2" class="player_size" height="325" onclick="load_multiple_media_chapter('video3','embed3','player3','http://www.youtube.com/v/qA83eznsKp8', 'youtube', '/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates', 'http://img.youtube.com/vi/qA83eznsKp8/0.jpg', 0, 0, '/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SCF10Rec_51_300k.srt');" src="http://ocw.mit.edu/images/default_video_simple.png" width="530"/>
+      </a>
+    </div>
+    <p>
+      <strong>Download this video:</strong>
+      <br/>
+      <a href="http://itunes.apple.com/us/podcast/volume-in-cylindrical-coordinates/id414355340?i=90322839" style="text-decoration: none" target="_blank" title="Open in a new window.">&#xBB; iTunes U (MP4 - 40MB)</a>
+      <br/>
+      <a href="http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_51_300k.mp4" style="text-decoration: none" target="_blank" title="Open in a new window.">&#xBB; Internet Archive (MP4 - 40MB)</a>
+      <br/>
+      <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SCF10Rec_51_300k.pdf" style="text-decoration: none" target="_blank" title="Open in a new window.">&#xBB; Transcript (PDF)</a>
+    </p>
+  </div>
+  <h2 class="subhead">Examples</h2>
+  <p>
+    <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SC_we_74_comb.pdf" target="_blank">Triple Integrals (PDF)</a>
+  </p>
+  <h2 class="subhead">Problems and Solutions</h2>
+  <p>
+    <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SC_pb_74_quest.pdf" target="_blank">Problems: Triple Integrals (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SC_pb_74_comb.pdf" target="_blank">Solutions (PDF)</a>
+  </p>
+</html>

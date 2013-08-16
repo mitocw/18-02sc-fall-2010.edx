@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<html display_name="Problem Set 4">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Work with a Mathlet to reinforce lecture concepts</li>
+    <li>Do the problems</li>
+    <li>Use the solutions to check your work</li>
+  </ul>
+  <h2 class="subhead">Problems Set</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_pset4.pdf" target="_blank" title="Open in a new window.">Problem Set 4 (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_SupProb2.pdf" target="_blank" title="Open in a new window.">Supplemental Problems referenced in this problem set (PDF)</a>
+  </p>
+  <h2 class="subhead">Related Resources</h2>
+  <p>Use a mathlet to answer one of the problems int the problem set.</p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_ps4_applet.html" target="_blank" title="Open in a new window.">Functions of Two Variables Mathlet</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/functionsoftwovarhelp.html">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/go.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/functionsTwoVariables.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/goText.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/mk_lib.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/parser_math.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/jcbwt363.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+  </p>
+  <h2 class="subhead">Problem Set Solutions</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_pset4sol.pdf" target="_blank" title="Open in a new window.">Problem Set 4 Solutions (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_SupProbSol2.pdf" target="_blank" title="Open in a new window.">Solutions to Supplemental Problems referenced in this problem set (PDF)</a>
+  </p>
+</html>

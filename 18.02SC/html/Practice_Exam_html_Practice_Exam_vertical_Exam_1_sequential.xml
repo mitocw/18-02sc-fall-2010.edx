@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<html display_name="Practice Exam">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Take a practice exam</li>
+    <li>Use the solutions to check your work</li>
+  </ul>
+  <h2 class="subhead">Practice Exams and Solutions</h2>
+  <p>
+    <a href="/static/1.-vectors-and-matrices/exam-1/practice-exam/MIT18_02SC_prac1A.pdf" target="_blank" title="Open in a new window.">Problems: Practice Exam 1 (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/1.-vectors-and-matrices/exam-1/practice-exam/MIT18_02SC_prac1Asol.pdf" target="_blank" title="Open in a new window.">Solutions (PDF)</a>
+  </p>
+</html>

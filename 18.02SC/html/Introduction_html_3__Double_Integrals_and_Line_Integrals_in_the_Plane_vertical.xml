@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <h2 class="subhead">Unit 3 Introduction</h2>
+  <p>This unit starts our study of integration of functions of several variables. To keep the visualization difficulties to a minimum we will only look at functions of two variables. (We will look at functions of three variables in the next unit.)</p>
+  <p>Our main objects of study will be two types of integrals:</p>
+  <ol>
+    <li>Double integrals, which are integrals over planar regions.</li>
+    <li>Line or path integrals, which are integrals over curves.</li>
+  </ol>
+  <p>All integrals can be thought of as a sum, technically a limit of Riemann sums, and these will be no exception. If you make sure you master this simple idea then you will find the applications and proofs involving these integrals to be straightforward.</p>
+  <p>We will conclude the unit by learning Green's theorem which relates the two types of integrals and is a generalization of the Fundamental Theorem of Calculus. Along the way we will introduce the concepts of work and two dimensional flux and also two types of derivatives of vector valued functions of two variables, the curl and the divergence.</p>
+  <p>
+    <a href="/static/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/index.htm">
+      <strong>Part A: Double Integrals</strong>
+    </a>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/index.htm">Part B: Vector Fields and Line Integrals</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/index.htm">Part C: Green's Theorem</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/index.htm">Exam 3</a>
+    </strong>
+  </p>
+</html>

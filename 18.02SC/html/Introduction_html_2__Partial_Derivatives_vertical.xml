@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <p>In this unit we will learn about derivatives of functions of several variables. Conceptually these derivatives are similar to those for functions of a single variable.</p>
+  <ol>
+    <li>They measure rates of change.</li>
+    <li>They are used in approximation formulas.</li>
+    <li>They help identify local maxima and minima.</li>
+  </ol>
+  <p>As you learn about partial derivatives you should keep the first point, that all derivatives measure rates of change, firmly in mind. Said differently, derivatives are limits of ratios. For example,</p>
+  <p style="text-align: center; ">
+    <img alt="" src="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/MIT18_02SC_limit.png"/>
+  </p>
+  <p>Of course, we&#x2019;ll explain what the pieces of each of these ratios represent.</p>
+  <p>Although conceptually similar to derivatives of a single variable, the uses, rules and equations for multivariable derivatives can be more complicated.  To help us understand and organize everything our two main tools will be the tangent approximation formula and the gradient vector.</p>
+  <p>Our main application in this unit will be solving optimization problems, that is, solving problems about finding maxima and minima. We will do this in both unconstrained and constrained settings.</p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/index.htm">
+      <strong>Part A: Functions of Two Variables, Tangent Approximation and Optimization</strong>
+    </a>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/index.htm">Part B: Chain Rule, Gradient and Directional Derivatives</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/index.htm">Part C: Lagrange Multipliers and Constrained Differentials</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/2.-partial-derivatives/exam-2/index.htm">Exam 2</a>
+    </strong>
+  </p>
+</html>

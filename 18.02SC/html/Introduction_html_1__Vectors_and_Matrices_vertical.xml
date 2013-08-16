@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <p>This unit covers the basic concepts and language we will use throughout the course. Just like every other topic we cover, we can view vectors and matrices algebraically and geometrically. It is important that you learn both viewpoints and the relationship between them.</p>
+  <p>
+    <strong>
+      <a href="/static/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/index.htm">Part A: Vectors, Determinants, and Planes</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/index.htm">Part B: Matrices and Systems of Equations</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/index.htm">Part C: Parametric Equations for Curves</a>
+    </strong>
+  </p>
+  <p>
+    <strong>
+      <a href="/static/1.-vectors-and-matrices/exam-1/index.htm">Exam 1</a>
+    </strong>
+  </p>
+</html>

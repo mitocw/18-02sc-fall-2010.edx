@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<html display_name="Exam Materials">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Take Exam 2</li>
+    <li>Use the solutions to check your work</li>
+  </ul>
+  <h2 class="subhead">Problems and Solutions</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/exam-2/exam-materials/MIT18_02SC_exam2.pdf" target="_blank" title="Open in a new window.">Exam 2 (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/exam-2/exam-materials/MIT18_02SC_exam2sol.pdf" target="_blank" title="Open in a new window.">Exam 2 Solutions (PDF)</a>
+  </p>
+</html>

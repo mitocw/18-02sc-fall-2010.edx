@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <p>The basic point of this part is to formulate systems of linear equations in terms of matrices. We can then view them as analogous to an equation like 7<em>x</em> = 5.</p>
+  <p>In order to use them in systems of equations we will need to learn the algebra of matrices; in particular, how to multiply them and how to find their inverses.</p>
+  <p>Geometrically, a linear equation in x, y and z is the equation of a plane. Solving a system of linear equations is equivalent to finding the intersection of the corresponding planes.</p>
+</html>

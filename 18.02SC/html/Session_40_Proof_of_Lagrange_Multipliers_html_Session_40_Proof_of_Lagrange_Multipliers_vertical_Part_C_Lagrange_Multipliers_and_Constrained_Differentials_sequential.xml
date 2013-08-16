@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<html display_name="Session 40: Proof of Lagrange Multipliers">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Watch a lecture video clip and read board notes</li>
+    <li>Read course notes</li>
+    <li>Work with a Mathlet to reinforce lecture concepts</li>
+  </ul>
+  <h2 class="subhead">Lecture Video</h2>
+  <h3 class="subsubhead">Video Excerpts</h3>
+  <h2 class="subhead">Related Readings</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/MIT18_02SC_notes_22.pdf" target="_blank" title="Open in a new window.">Proof of Lagrange Multipliers (PDF)</a>
+  </p>
+  <h2 class="subhead">Related Resources</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/MIT18_02SC_s40_applet.html" target="_blank" title="Open in a new window.">Lagrange Multipliers Mathlet</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/MIT18_02SC_s40_guide.html">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/lagrangehelp.html">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/lagrangeMultipliersTwoVariables.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/mk_lib.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/parser_math.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+    <a href="/static/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-40-proof-of-lagrange-multipliers/jcbwt363.jar">
+      <img alt="" src="../../../../common/images/trans.gif" style="display: none;"/>
+    </a>
+  </p>
+</html>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<html display_name="Session 29: Least Squares">
+  <h2 class="subhead">Overview</h2>
+  <p>In this session you will:</p>
+  <ul>
+    <li>Watch a lecture video clip and read board notes</li>
+    <li>Read course notes and examples</li>
+    <li>Review another example</li>
+    <li>Watch a recitation video</li>
+    <li>Do problems and use solutions to check your work</li>
+  </ul>
+  <h2 class="subhead">Lecture Video</h2>
+  <h3 class="subsubhead">Video Excerpts</h3>
+  <h2 class="subhead">Reading and Examples</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/MIT18_02SC_MNotes_ls.pdf" target="_blank" title="Open in a new window.">Least Squares Interpolation (PDF)</a>
+  </p>
+  <h2 class="subhead">Examples</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/MIT18_02SC_we_13_comb.pdf" target="_blank" title="Open in a new window.">Least Squares (PDF)</a>
+  </p>
+  <h2 class="subhead">Recitation Video</h2>
+  <h3 class="subsubhead">Least Squares</h3>
+  <h2 class="subhead">Problems and Solutions</h2>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/MIT18_02SC_pb_28_quest.pdf" target="_blank" title="Open in a new window.">Problems: Least Squares (PDF)</a>
+  </p>
+  <p>
+    <a href="/static/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/MIT18_02SC_pb_28_comb.pdf" target="_blank" title="Open in a new window.">Solutions (PDF)</a>
+  </p>
+</html>

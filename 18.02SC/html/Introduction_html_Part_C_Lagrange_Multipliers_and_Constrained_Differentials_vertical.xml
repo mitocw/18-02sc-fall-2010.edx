@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<html display_name="Introduction">
+  <p>In this part we will study a new type of optimization problem: that of finding the maximum (or minimum) value of a function <em>w</em> = <em>f</em>(<em>x, y, z</em>) when we are only allowed to consider points (<em>x, y, z</em>) which are constrained to lie on a surface. The technique we will use to solve these problems is called Lagrange multipliers.</p>
+</html>

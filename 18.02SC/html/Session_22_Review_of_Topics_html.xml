@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<html display_name="Session 22: Review of Topics">
+  <p>The basic point of this part is to formulate systems of linear equations in terms of matrices. We can then view them as analogous to an equation like 7<em>x</em> = 5.</p>
+  <p>In order to use them in systems of equations we will need to learn the algebra of matrices; in particular, how to multiply them and how to find their inverses.</p>
+  <p>Geometrically, a linear equation in x, y and z is the equation of a plane. Solving a system of linear equations is equivalent to finding the intersection of the corresponding planes.</p>
+  <blockquote>
+    <p>&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/index.htm">Session 9: Matrix Multiplication</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/index.htm">Session 10: Meaning of Matrix Multiplication</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/index.htm">Session 11: Matrix Inverses</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/index.htm">Session 12: Equations of Planes II</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-13-linear-systems-and-planes/index.htm">Session 13: Linear Systems and Planes</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/index.htm">Session 14: Solutions to Square Systems</a><br/>&#xD;
+&#xBB; <a href="/static/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/problem-set-2/index.htm">Problem Set 2</a></p>
+  </blockquote>
+</html>
